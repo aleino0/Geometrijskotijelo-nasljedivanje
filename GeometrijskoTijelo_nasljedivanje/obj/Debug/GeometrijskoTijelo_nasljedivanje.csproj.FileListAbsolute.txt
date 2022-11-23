@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\GeometrijskoTijelo_nasljedivanje\GeometrijskoTijelo_nasljedivanje\bin\Debug\GeometrijskoTijelo_nasljedivanje.exe.config
+C:\Users\ucenik\source\repos\GeometrijskoTijelo_nasljedivanje\GeometrijskoTijelo_nasljedivanje\bin\Debug\GeometrijskoTijelo_nasljedivanje.exe
+C:\Users\ucenik\source\repos\GeometrijskoTijelo_nasljedivanje\GeometrijskoTijelo_nasljedivanje\bin\Debug\GeometrijskoTijelo_nasljedivanje.pdb
+C:\Users\ucenik\source\repos\GeometrijskoTijelo_nasljedivanje\GeometrijskoTijelo_nasljedivanje\obj\Debug\GeometrijskoTijelo_nasljedivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\GeometrijskoTijelo_nasljedivanje\GeometrijskoTijelo_nasljedivanje\obj\Debug\GeometrijskoTijelo_nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\GeometrijskoTijelo_nasljedivanje\GeometrijskoTijelo_nasljedivanje\obj\Debug\GeometrijskoTijelo_nasljedivanje.exe
+C:\Users\ucenik\source\repos\GeometrijskoTijelo_nasljedivanje\GeometrijskoTijelo_nasljedivanje\obj\Debug\GeometrijskoTijelo_nasljedivanje.pdb
